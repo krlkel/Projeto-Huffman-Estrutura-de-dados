@@ -1,2 +1,2 @@
-# Projeto-Huffman-Estrutura-de-dados(huffman-algorithm-main.md)
+# Projeto-Huffman-Estrutura-de-dados 
 Projeto avaliativo para a disciplina de Estrutura de Dados.
